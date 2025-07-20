@@ -1,0 +1,40 @@
+.top_bar{
+    background-color: black;
+    text-decoration-color: beige;
+    color: beige;
+    padding: 0.5px;
+    padding-left: 20px;
+  padding-right: 30px;
+  display: flex;
+  justify-content: space-between; align-items: center;
+    
+}
+.top_left{
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+
+}
+
+.new-card
+{
+    display: flex;
+flex-direction: row;
+    gap: 30px;
+}
+
+.arrival-button{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.FAQ{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.Form{
+    background-image:url(./Slidebar1.jpg);
+}
+
